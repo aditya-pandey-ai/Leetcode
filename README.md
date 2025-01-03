@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0817-design-hashmap) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0817-design-hashmap) |
