@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0817-design-hashmap) |
 | [2058-concatenation-of-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0817-design-hashmap) |
 ## Linked List
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
