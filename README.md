@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
