@@ -2,8 +2,16 @@ class Solution:
     def minOperations(self, boxes: str) -> List[int]:
         res = [0] * len(boxes)
 
+        balls,moves = 0,0
         for i in range(len(boxes)):
-            if boxes[i] == "1":
-                for j in range(len(boxes)):
-                    res[j] += abs(i-j)
+            res[i] = balls + moves
+            moves = moves + balls
+            balls += int(boxes[i]) 
+
+        balls,moves = 0,0
+        for i in reversed(range(len(boxes))):
+            res[i] += balls + moves
+            moves = moves + balls
+            balls += int(boxes[i])
+
         return res
