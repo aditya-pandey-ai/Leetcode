@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0932-monotonic-array) |
 | [0952-word-subsets](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0952-word-subsets) |
 | [1297-maximum-number-of-balloons](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1502-construct-k-palindrome-strings](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1635-number-of-good-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aditya-pandey-ai/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
@@ -119,5 +121,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1502-construct-k-palindrome-strings](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1635-number-of-good-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aditya-pandey-ai/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
