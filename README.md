@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0817-design-hashmap) |
+| [0932-monotonic-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0932-monotonic-array) |
 | [0952-word-subsets](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
