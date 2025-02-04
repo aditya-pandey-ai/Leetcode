@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2145-grid-game) |
