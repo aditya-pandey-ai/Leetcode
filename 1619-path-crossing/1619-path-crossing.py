@@ -1,19 +1,15 @@
 class Solution:
     def isPathCrossing(self, path: str) -> bool:
-        dir = {
-            'N': [0, 1],
-            'S': [0, -1],
-            'E': [1, 0],
-            'W': [-1, 0]
-        }
+        x, y = 0, 0
+        visited = {(0, 0)}
 
-        visited = set()
-        x,y = 0,0
+        for direction in path:
+            x += 1 if direction == 'E' else (-1 if direction == 'W' else 0)
+            y += 1 if direction == 'N' else (-1 if direction == 'S' else 0)
 
-        for p in path:
-            visited.add((x,y))
-            dx,dy = dir[p]
-            x , y = dx + x, dy + y
-            if (x,y) in visited:
+            if (x, y) in visited:
                 return True
+
+            visited.add((x, y))
+
         return False
