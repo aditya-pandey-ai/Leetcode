@@ -1,15 +1,8 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        count = defaultdict(int)
-        index = {}
-
-        for pos,c in enumerate(s):
-            count[c] += 1
-            if c not in index:
-                index[c] = pos
+        chars = Counter(s)
+        for char in chars:
+            if chars[char] == 1:
+                return s.index(char)
         
-        for c in s:
-            if count[c] == 1:
-                return index[c]
-
         return -1
