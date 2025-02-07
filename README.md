@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0932-monotonic-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0952-word-subsets) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0645-set-mismatch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-pandey-ai/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
