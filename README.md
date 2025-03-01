@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1364-tuple-with-same-product](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2145-grid-game) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Ordered Set
 |  |
 | ------- |
