@@ -2,15 +2,13 @@ from typing import List
 
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
-        start, end = 0, len(letters) - 1
+        l, h = 0, len(letters) - 1
+        while l < h:
+            mid = (h + l) // 2
+            if letters[mid] > target:
+                h = mid  # Move left to find a greater element
+            else:
+                l = mid + 1  # Move right if mid is <= target
 
-        while start <= end:
-            mid = (start + end) // 2
-            
-            if letters[mid] <= target:  # Move right if `mid` is not greater than target
-                start = mid + 1
-            else:  # Move left if `mid` is greater
-                end = mid - 1
-        
-        # If `start` moves beyond the last index, return first element (circular behavior)
-        return letters[start % len(letters)]
+        # Circular behavior: if no greater letter is found, return the first letter
+        return letters[l] if letters[l] > target else letters[0]
