@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0645-set-mismatch) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0816-design-hashset](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0932-monotonic-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Ordered Set
 |  |
