@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2509-minimize-xor) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0645-set-mismatch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -317,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
