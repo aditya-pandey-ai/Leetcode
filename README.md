@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
