@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya-pandey-ai/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aditya-pandey-ai/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Simulation
 |  |
 | ------- |
