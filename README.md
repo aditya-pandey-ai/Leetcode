@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2509-minimize-xor) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3321-type-of-triangle](https://github.com/aditya-pandey-ai/Leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aditya-pandey-ai/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
