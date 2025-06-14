@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
