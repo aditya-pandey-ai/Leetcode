@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2509-minimize-xor) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aditya-pandey-ai/Leetcode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aditya-pandey-ai/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
